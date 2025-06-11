@@ -16,6 +16,18 @@ body {
 .homepage-layout {
   margin: auto;
   text-align: center;
+  border-radius: 4px;
+  padding: 20px;
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  max-width: 800px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 h1,
